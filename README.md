@@ -1,2 +1,1 @@
-# suhail-hasna-wedding
-wedding 
+index.html
